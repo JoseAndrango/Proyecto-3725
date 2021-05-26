@@ -1,9 +1,8 @@
 #include <iostream>
 using manespace std;
+int validarnumero(int n){
+	//proceso de validacion 
+}
 main(){
-//proceso para validar datos de ingreso 
-int n;
-count<<"ingrese un numero: ";
-cin<<n;
 
 }
