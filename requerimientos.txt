@@ -1,3 +1,5 @@
 Se necesita crear un programa que permita realizar operaciones basicas de un 
 numero.
+Necesitamos crear un procedimiento para validar el numero entre el 1 y 10 (propuso el ING Juan
+Macias).  
  
