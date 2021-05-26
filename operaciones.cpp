@@ -7,3 +7,6 @@ main(){
 //validar numero 
 //codificar un algoritmo 
 }
+// saludo al programador 
+//"buenas tarde (nombre)
+
